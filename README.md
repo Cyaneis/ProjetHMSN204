@@ -8,4 +8,6 @@ In this github, you will find :
 -The python script
 -The create tables which were used to create the database
 
+To run the python script, you will only need the script itself.
+
 The project is considered to be finished. 
